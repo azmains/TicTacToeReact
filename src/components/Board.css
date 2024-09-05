@@ -1,0 +1,7 @@
+.board {
+  grid-template-columns: repeat(3, 6rem);
+
+  display: grid;
+  place-items: start;
+  justify-content: left;
+}
