@@ -1,5 +1,3 @@
-# TicTacToeReact
+# Tic-Tac-Toe in React
 
-Azmain
-Tictactoe
-RUnning test
+Find the project demo at https://CodeCompleteYT.github.io/react-tic-tac-toe
